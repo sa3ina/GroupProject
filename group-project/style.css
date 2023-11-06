@@ -1,0 +1,26 @@
+.box1{
+    border: 1px solid black;
+    height: 80px;
+    width: 80px;
+    background-color: green;
+}
+.box2{
+    border: 1px solid black;
+    height: 80px;
+    width: 80px;
+    background-color: rgb(23, 0, 128);
+}
+.box3{
+    border: 1px solid black;
+    height: 80px;
+    width: 80px;
+    background-color: rgb(120, 226, 120);
+}
+.section5{
+    border: 1px solid black;
+    height: 100px;
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
